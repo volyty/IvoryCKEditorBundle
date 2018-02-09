@@ -39,7 +39,7 @@
         "twig/twig": "Allows to use Twig templates"
     },
     "autoload": {
-         "psr-4": { "Ivory\\CKEditorBundle": "" }
+         "psr-4": { "Ivory\\CKEditorBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
