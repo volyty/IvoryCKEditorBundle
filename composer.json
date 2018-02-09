@@ -1,5 +1,5 @@
 {
-    "name": "volyty/ckeditor-bundle",
+    "name": "egeloen/ckeditor-bundle",
     "type": "symfony-bundle",
     "description": "Provides a CKEditor integration for your Symfony2 Project.",
     "keywords": [ "ckeditor" ],
@@ -39,7 +39,7 @@
         "twig/twig": "Allows to use Twig templates"
     },
     "autoload": {
-         "psr-4": { "Ivory\\CKEditorBundle": "/volyty/ckeditor-bundle/" }
+         "psr-4": { "Ivory\\CKEditorBundle": "" }
     },
     "extra": {
         "branch-alias": {
